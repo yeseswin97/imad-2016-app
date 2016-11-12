@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/test', function(req,res){
-    res.send('FIRST REQUEST IS BEING PROCESSED');
+    
     res.sendFile(path.join(__dirname, 'ui', 'test.html'));
 }
 );
