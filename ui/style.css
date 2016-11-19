@@ -3,7 +3,12 @@ body {
     background-image:url("http://wallpapercave.com/wp/gsGFxkc.jpg");
     margin-top: 75px;
 }
-
+img{
+    border-style: inset;
+    border-color: black;
+    padding: 10;
+    border-width: 15;
+          }
 .center {
     text-align: center;
 }
