@@ -19,7 +19,7 @@ body {
 .img-medium {
     height: 200px;
     border-style: inset;
-    border-color: white;
+    border-color: grey;
     border-width: 25px;
 }
 
