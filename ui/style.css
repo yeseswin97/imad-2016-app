@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
- 
+    background-image:url("http://i2.cdn.cnn.com/cnnnext/dam/assets/150820163747-profile-background-stock---no-photo-full-169.jpg");
     margin-top: 75px;
 }
 
@@ -19,8 +19,7 @@ body {
 .img-medium {
     height: 200px;
     border-style: inset;
-    border-color: black;
-   
-    border-width: 15px;
+    border-color: white;
+    border-width: 25px;
 }
 
